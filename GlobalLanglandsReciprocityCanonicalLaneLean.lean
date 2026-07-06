@@ -1,0 +1,7 @@
+-- This module is the root of the GlobalLanglandsReciprocityCanonicalLaneLean Lean proof package.
+import GlobalLanglandsReciprocityCanonicalLaneLean.Basic
+import GlobalLanglandsReciprocityCanonicalLaneLean.SourcePackage
+import GlobalLanglandsReciprocityCanonicalLaneLean.SourceDependencies
+import GlobalLanglandsReciprocityCanonicalLaneLean.Formalization
+import GlobalLanglandsReciprocityCanonicalLaneLean.ReviewerBridge
+import GlobalLanglandsReciprocityCanonicalLaneLean.TheoremStatement
